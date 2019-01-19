@@ -1,0 +1,6 @@
+[submodule "examples"]
+	path = examples
+	url = https://github.com/andyburgin/examples.git
+[submodule "external-storage"]
+	path = external-storage
+	url = https://github.com/andyburgin/external-storage.git
